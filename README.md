@@ -1,0 +1,2 @@
+# Railway-Platform-Allocation-System
+Railway Platform Allocation in C++ calculates the minimum number of platforms required at a station so that no train waits. It uses a greedy algorithm by sorting train arrival and departure times, demonstrating efficient scheduling, array handling, and real-world algorithm application.
